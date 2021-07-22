@@ -17,6 +17,9 @@ GET: https://chalenge3.herokuapp.com/users/albums/id/photos
 id variable within the above url is the id that represent an album
 Ex: 1,2,3,4,5,6. ......etc
 
+## Consumption
+this GET endpoint might be accessible to any front end technology
+
 ## Code of Conduct
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
